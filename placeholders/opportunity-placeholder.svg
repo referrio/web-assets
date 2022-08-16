@@ -1,0 +1,13 @@
+<svg width="1280" height="106" viewBox="0 0 1280 106" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="24" y="24" width="160" height="20" rx="4" fill="#E7E6EA"/>
+<rect x="24" y="52" width="228" height="20" rx="4" fill="#E7E6EA"/>
+<path d="M396 36C396 29.3726 401.373 24 408 24V24C414.627 24 420 29.3726 420 36V36C420 42.6274 414.627 48 408 48V48C401.373 48 396 42.6274 396 36V36Z" fill="#E7E6EA"/>
+<rect x="428" y="27" width="140" height="18" rx="4" fill="#E7E6EA"/>
+<rect x="396" y="56" width="240" height="26" rx="4" fill="white"/>
+<rect width="119.5" height="26" transform="translate(396 56)" fill="#E7E6EA"/>
+<rect width="119.5" height="26" transform="translate(516.5 56)" fill="#E7E6EA"/>
+<rect x="768" y="24" width="200" height="20" rx="4" fill="#E7E6EA"/>
+<rect x="768" y="52" width="180" height="20" rx="4" fill="#E7E6EA"/>
+<path d="M1140 32C1140 28.2288 1140 26.3431 1141.17 25.1716C1142.34 24 1144.23 24 1148 24H1248C1251.77 24 1253.66 24 1254.83 25.1716C1256 26.3431 1256 28.2288 1256 32V58C1256 61.7712 1256 63.6569 1254.83 64.8284C1253.66 66 1251.77 66 1248 66H1148C1144.23 66 1142.34 66 1141.17 64.8284C1140 63.6569 1140 61.7712 1140 58V32Z" fill="#E7E6EA"/>
+<rect x="0.5" y="0.5" width="1279" height="105" rx="7.5" stroke="#D5D3D9" stroke-linecap="round" stroke-dasharray="6 6"/>
+</svg>
